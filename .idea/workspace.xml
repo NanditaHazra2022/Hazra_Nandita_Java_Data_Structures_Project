@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindMinimumInAnIntegerArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project/src/main/java/BinaryTree",
-    "last_opened_file_path": "C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project/src/main/java/BinaryTree&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Java_Data_Structures_Project" />
@@ -50,7 +51,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMinimumInAnIntegerArray">
+  <component name="RunManager" selected="Application.CopyFromSourceArrayToDestinationArray">
     <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CloneArray" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -58,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDiameterOfBinaryTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindDiameterOfBinaryTree" />
+    <configuration name="CopyFromSourceArrayToDestinationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyFromSourceArrayToDestinationArray" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDiameterOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTree.FindDiameterOfBinaryTree" />
+    <configuration name="FindDiameterOfBinaryTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDiameterOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyFromSourceArrayToDestinationArray" />
         <item itemvalue="Application.FindMinimumInAnIntegerArray" />
         <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.FindLeafNodesOfBinaryTree" />
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667101930992</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Java program: FindMinimumInAnIntegerArray.java">
+      <created>1667102779420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667102779420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +142,7 @@
     <MESSAGE value="Added Java program: FindDiameterOfBinaryTree.java" />
     <MESSAGE value="Added Java program: FindLeafNodesOfBinaryTree.java" />
     <MESSAGE value="Added Java program: CloneArray.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: CloneArray.java" />
+    <MESSAGE value="Added Java program: FindMinimumInAnIntegerArray.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: FindMinimumInAnIntegerArray.java" />
   </component>
 </project>
