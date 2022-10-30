@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BoundaryTraversalOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreateDoublyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FindLeafNodesOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindLeafNodesOfBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +52,9 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BoundaryTraversalOfBinaryTree">
+  <component name="RunManager" selected="Application.CreateDoublyLinkedList">
     <configuration name="BoundaryTraversalOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoundaryTraversalOfBinaryTree" />
-      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CloneArray" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimumInAnIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMinimumInAnIntegerArray" />
+    <configuration name="CreateDoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateDoublyLinkedList" />
+      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateDoublyLinkedList" />
+        <item itemvalue="Application.DoublyLinkedList" />
         <item itemvalue="Application.BoundaryTraversalOfBinaryTree" />
         <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.CopyFromSourceArrayToDestinationArray" />
-        <item itemvalue="Application.FindMinimumInAnIntegerArray" />
-        <item itemvalue="Application.CloneArray" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667116947168</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Java program: BoundaryTraversalOfBinaryTree.java">
+      <created>1667124250052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667124250052</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +167,7 @@
     <MESSAGE value="Added Java program: FindMinimumInAnIntegerArray.java" />
     <MESSAGE value="Added Java program: CopyFromSourceArrayToDestinationArray.java" />
     <MESSAGE value="Added Java program: TwoDimensionalArray.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: TwoDimensionalArray.java" />
+    <MESSAGE value="Added Java program: BoundaryTraversalOfBinaryTree.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: BoundaryTraversalOfBinaryTree.java" />
   </component>
 </project>
