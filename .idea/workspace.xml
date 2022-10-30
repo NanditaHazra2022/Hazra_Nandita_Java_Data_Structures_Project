@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreateDoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountCircularLinkedListNodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreateDoublyLinkedList">
+  <component name="RunManager" selected="Application.CountCircularLinkedListNodes">
     <configuration name="BoundaryTraversalOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoundaryTraversalOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -60,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyFromSourceArrayToDestinationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CopyFromSourceArrayToDestinationArray" />
+    <configuration name="CountCircularLinkedListNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountCircularLinkedListNodes" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountCircularLinkedListNodes" />
         <item itemvalue="Application.CreateDoublyLinkedList" />
         <item itemvalue="Application.DoublyLinkedList" />
         <item itemvalue="Application.BoundaryTraversalOfBinaryTree" />
         <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.CopyFromSourceArrayToDestinationArray" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667124250052</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Java program: CreateDoublyLinkedList.java">
+      <created>1667136125505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667136125505</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +174,7 @@
     <MESSAGE value="Added Java program: CopyFromSourceArrayToDestinationArray.java" />
     <MESSAGE value="Added Java program: TwoDimensionalArray.java" />
     <MESSAGE value="Added Java program: BoundaryTraversalOfBinaryTree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: BoundaryTraversalOfBinaryTree.java" />
+    <MESSAGE value="Added Java program: CreateDoublyLinkedList.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: CreateDoublyLinkedList.java" />
   </component>
 </project>
