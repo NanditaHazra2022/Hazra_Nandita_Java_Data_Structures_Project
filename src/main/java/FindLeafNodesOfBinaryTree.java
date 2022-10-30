@@ -49,8 +49,7 @@ public class FindLeafNodesOfBinaryTree
     }   // End of method block.
 
     // Method to create a new tree node.
-    static Node newNode(int data)
-    {
+    static Node newNode(int data) {
         Node temp = new Node();
         temp.data = data;
         temp.left = null;
@@ -60,7 +59,7 @@ public class FindLeafNodesOfBinaryTree
 
     // Starting point of execution.
     public static void main(String[] args)
-    {
+    {   // Start of execution thread.
 
         // Creating binary tree.
         Node root = newNode(100);   // Root node.
