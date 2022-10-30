@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="Added Java program: Clone">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindMinimumInAnIntegerArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +26,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GnYBr6RHEoJHCLh3bnOMVXNWn4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project/src/main/java/BinaryTree&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project/src/main/java/BinaryTree",
+    "last_opened_file_path": "C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Java_Data_Structures_Project" />
@@ -47,7 +50,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CloneArray">
+  <component name="RunManager" selected="Application.FindMinimumInAnIntegerArray">
     <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CloneArray" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -76,8 +79,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindMinimumInAnIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMinimumInAnIntegerArray" />
+      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMinimumInAnIntegerArray" />
         <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.FindLeafNodesOfBinaryTree" />
         <item itemvalue="Application.FindDiameterOfBinaryTree (1)" />
@@ -107,12 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667100123399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Java program: CloneArray.java">
+      <created>1667101930992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667101930992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added Java program: FindDiameterOfBinaryTree.java" />
     <MESSAGE value="Added Java program: FindLeafNodesOfBinaryTree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: FindLeafNodesOfBinaryTree.java" />
+    <MESSAGE value="Added Java program: CloneArray.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: CloneArray.java" />
   </component>
 </project>
