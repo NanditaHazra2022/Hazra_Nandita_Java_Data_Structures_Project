@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindLeafNodesOfBinaryTree.java" afterDir="false" />
+    <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="Added Java program: Clone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +35,26 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project/src/main/java/BinaryTree&quot;
+    &quot;last_directory_selection&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project/src/main/java/BinaryTree&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hazra/Desktop/Hazra_Nandita_Java_Data_Structures_Project&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Java_Data_Structures_Project" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindLeafNodesOfBinaryTree">
+  <component name="RunManager" selected="Application.CloneArray">
+    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CloneArray" />
+      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindDiameterOfBinaryTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindDiameterOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -68,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.FindLeafNodesOfBinaryTree" />
         <item itemvalue="Application.FindDiameterOfBinaryTree (1)" />
       </list>
@@ -89,11 +100,19 @@
       <option name="project" value="LOCAL" />
       <updated>1667040788651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Java program: FindLeafNodesOfBinaryTree.java">
+      <created>1667100123399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667100123399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Java program: FindDiameterOfBinaryTree.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: FindDiameterOfBinaryTree.java" />
+    <MESSAGE value="Added Java program: FindLeafNodesOfBinaryTree.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: FindLeafNodesOfBinaryTree.java" />
   </component>
 </project>
