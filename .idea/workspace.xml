@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/IterateCircularDoublyLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IterateCircularDoublyLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreateQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IterateCircularDoublyLinkedList">
+  <component name="RunManager" selected="Application.CreateQueue">
     <configuration name="BoundaryTraversalOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoundaryTraversalOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -60,6 +61,13 @@
     </configuration>
     <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CloneArray" />
+      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateQueue" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,20 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PushPopStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PushPopStack" />
-      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateQueue" />
         <item itemvalue="Application.IterateCircularDoublyLinkedList" />
         <item itemvalue="Application.FindLeafNodesOfBinaryTree" />
         <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.BoundaryTraversalOfBinaryTree" />
-        <item itemvalue="Application.PushPopStack" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667201419504</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Modified Java program: IterateCircularDoublyLinkedList.java to rename it for correcting typo, removed redundant reference variable and added comments.">
+      <created>1667202030060</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667202030060</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +230,7 @@
     <MESSAGE value="Modified Java program: BoundaryTraversalOfBinaryTree.java to remove duplicate semi-colon and change the C-String array declaration." />
     <MESSAGE value="Modified Java program: CloneArray.java to change array declaration." />
     <MESSAGE value="Modified Java program: FindLeafNodesOfBinaryTree.java to remove unnecessary semi-colon." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: FindLeafNodesOfBinaryTree.java to remove unnecessary semi-colon." />
+    <MESSAGE value="Modified Java program: IterateCircularDoublyLinkedList.java to rename it for correcting typo, removed redundant reference variable and added comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: IterateCircularDoublyLinkedList.java to rename it for correcting typo, removed redundant reference variable and added comments." />
   </component>
 </project>
