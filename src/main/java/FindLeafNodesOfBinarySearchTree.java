@@ -1,10 +1,10 @@
 /* Java program to demonstrate
-* operation on binary tree.
+* operation on binary search tree.
 * This program will find
-* leaf nodes of binary tree. */
+* leaf nodes of binary search tree. */
 
 // Main class.
-public class FindLeafNodesOfBinaryTree
+public class FindLeafNodesOfBinarySearchTree
 {   // Start of main class block.
 
     // Node class.
