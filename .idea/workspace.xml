@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/IterateCircularDoublyLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PushPopStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IterateCircularDoublyLinkList">
+  <component name="RunManager" selected="Application.PushPopStack">
     <configuration name="CountCircularLinkedListNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountCircularLinkedListNodes" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -73,13 +74,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList" />
-      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="IterateCircularDoublyLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IterateCircularDoublyLinkList" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -87,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PushPopStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PushPopStack" />
+      <module name="Hazra_Nandita_Java_Data_Structures_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PushPopStack" />
         <item itemvalue="Application.IterateCircularDoublyLinkList" />
         <item itemvalue="Application.CreateCircularDoublyLinkList" />
         <item itemvalue="Application.CountCircularLinkedListNodes" />
         <item itemvalue="Application.CreateDoublyLinkedList" />
-        <item itemvalue="Application.DoublyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667174118638</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added Java program: IterateCircularDoublyLinkList.java">
+      <created>1667187728304</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667187728304</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +191,7 @@
     <MESSAGE value="Added Java program: BoundaryTraversalOfBinaryTree.java" />
     <MESSAGE value="Added Java program: CreateDoublyLinkedList.java" />
     <MESSAGE value="Added Java program: CountCircularLinkedListNodes.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: CountCircularLinkedListNodes.java" />
+    <MESSAGE value="Added Java program: IterateCircularDoublyLinkList.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: IterateCircularDoublyLinkList.java" />
   </component>
 </project>
