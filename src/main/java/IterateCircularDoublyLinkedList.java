@@ -8,7 +8,7 @@
 * and has time complexity of O(1). */
 
 // Main class.
-public class IterateCircularDoublyLinkList
+public class IterateCircularDoublyLinkedList
 {   // Start of main class block.
 
     // Node class
@@ -16,7 +16,7 @@ public class IterateCircularDoublyLinkList
         int data;
         Node next;  // Reference variable
         Node prev;  // Reference variable
-    };
+    }
 
     static Node head;   // Reference variable
 
@@ -87,10 +87,9 @@ public class IterateCircularDoublyLinkList
 
     }   // End of print node(s) block
 
+    // Starting point of execution.
     public static void main(String[] args)
-    {
-        //the empty list 
-        Node l_list = null;
+    {   // Start of execution thread.
 
         // add nodes to the list  
         addNode(1);
@@ -100,7 +99,8 @@ public class IterateCircularDoublyLinkList
         addNode(5);
 
         //print the list
-
         printNodes();
-    }
-}  
+
+    }   // End of execution thread.
+
+}  // End of main class block.
