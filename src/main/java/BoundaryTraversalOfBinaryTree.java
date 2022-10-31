@@ -106,7 +106,7 @@ class BoundaryTraversalOfBinaryTree
     Node root; // Reference variable
 
     // Starting point of execution.
-    public static void main(String args[])
+    public static void main(String[] args)
     {   // Start of execution thread.
 
         // Creating binary tree.
@@ -114,11 +114,11 @@ class BoundaryTraversalOfBinaryTree
         tree.root = newNode(1000);    // Root node, therefore at boundary
         tree.root.left = newNode(400);  // Internal node at boundary
         tree.root.left.left = newNode(100);   // Leaf node, therefore at boundary
-        tree.root.left.right = newNode(600);;  // Internal node not at boundary
+        tree.root.left.right = newNode(600); // Internal node not at boundary
         tree.root.left.right.left = newNode(500);   // Leaf node, therefore at boundary
         tree.root.left.right.right = newNode(900);   // Leaf node, therefore at boundary
-        tree.root.right = newNode(1700);;  // Internal node at boundary
-        tree.root.right.left = newNode(1500);;  // Internal node not at boundary
+        tree.root.right = newNode(1700);  // Internal node at boundary
+        tree.root.right.left = newNode(1500);  // Internal node not at boundary
         tree.root.right.left.left = newNode(1100);   // Leaf node, therefore at boundary
         tree.root.right.right = newNode(2200);   // Leaf node, therefore at boundary
 
