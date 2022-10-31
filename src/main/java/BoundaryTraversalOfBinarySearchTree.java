@@ -1,12 +1,12 @@
 /* Java program to demonstrate
-* boundary traversal of binary tree.
+* boundary traversal of binary search tree.
 * The boundary includes the path
 * from the root to the left-most node,
 * leaf nodes and the path from
 * the right-most node to the root. */
 
 // Main class.
-class BoundaryTraversalOfBinaryTree
+public class BoundaryTraversalOfBinarySearchTree
 {   // Start of main class block.
 
     // Node class.
@@ -110,7 +110,8 @@ class BoundaryTraversalOfBinaryTree
     {   // Start of execution thread.
 
         // Creating binary tree.
-        BoundaryTraversalOfBinaryTree tree = new BoundaryTraversalOfBinaryTree();
+        BoundaryTraversalOfBinarySearchTree tree
+                = new BoundaryTraversalOfBinarySearchTree();
         tree.root = newNode(1000);    // Root node, therefore at boundary
         tree.root.left = newNode(400);  // Internal node at boundary
         tree.root.left.left = newNode(100);   // Leaf node, therefore at boundary

@@ -1,14 +1,14 @@
 /* Java program to demonstrate
-* operation on binary tree.
+* operation on binary search tree.
 * This program will find
-* the diameter of binary tree.
-* The diameter of a binary tree
+* the diameter of binary search tree.
+* The diameter of a binary search tree
 * is the number of nodes
 * on the longest path
 * between two leaves in the tree. */
 
 // Main class.
-public class FindDiameterOfBinaryTree
+public class FindDiameterOfBinarySearchTree
 {   // Start of main class block.
 
     // Class to build the binary tree.
