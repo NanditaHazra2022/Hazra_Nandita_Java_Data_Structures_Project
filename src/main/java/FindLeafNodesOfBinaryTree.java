@@ -13,7 +13,7 @@ public class FindLeafNodesOfBinaryTree
         public int data;
         public Node left, right;    // Reference variable.
 
-    };
+    }
 
     /* Method to print leaf
     * nodes from left to right. */

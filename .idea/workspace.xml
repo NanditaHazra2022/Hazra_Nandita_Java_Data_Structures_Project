@@ -50,7 +50,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CloneArray">
+  <component name="RunManager" selected="Application.FindLeafNodesOfBinaryTree">
     <configuration name="BoundaryTraversalOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoundaryTraversalOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateCircularDoublyLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreateCircularDoublyLinkList" />
+    <configuration name="FindLeafNodesOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLeafNodesOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLeafNodesOfBinaryTree" />
         <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.BoundaryTraversalOfBinaryTree" />
         <item itemvalue="Application.PushPopStack" />
         <item itemvalue="Application.IterateCircularDoublyLinkList" />
-        <item itemvalue="Application.CreateCircularDoublyLinkList" />
       </list>
     </recent_temporary>
   </component>
