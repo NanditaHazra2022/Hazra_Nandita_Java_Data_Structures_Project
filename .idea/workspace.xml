@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228ca0cc-0b37-4d48-863c-b81d6e63e22b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PushPopStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CloneArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CloneArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <recent name="BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BoundaryTraversalOfBinaryTree">
+  <component name="RunManager" selected="Application.CloneArray">
     <configuration name="BoundaryTraversalOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoundaryTraversalOfBinaryTree" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
@@ -60,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountCircularLinkedListNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountCircularLinkedListNodes" />
+    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CloneArray" />
       <module name="Hazra_Nandita_Java_Data_Structures_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneArray" />
         <item itemvalue="Application.BoundaryTraversalOfBinaryTree" />
         <item itemvalue="Application.PushPopStack" />
         <item itemvalue="Application.IterateCircularDoublyLinkList" />
         <item itemvalue="Application.CreateCircularDoublyLinkList" />
-        <item itemvalue="Application.CountCircularLinkedListNodes" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667187728304</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added Java program: PushPopStack.java">
+      <created>1667200744401</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200744401</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Modified Java program: BoundaryTraversalOfBinaryTree.java to remove duplicate semi-colon and change the C-String array declaration.">
+      <created>1667201017842</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667201017842</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +204,8 @@
     <MESSAGE value="Added Java program: CreateDoublyLinkedList.java" />
     <MESSAGE value="Added Java program: CountCircularLinkedListNodes.java" />
     <MESSAGE value="Added Java program: IterateCircularDoublyLinkList.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: IterateCircularDoublyLinkList.java" />
+    <MESSAGE value="Added Java program: PushPopStack.java" />
+    <MESSAGE value="Modified Java program: BoundaryTraversalOfBinaryTree.java to remove duplicate semi-colon and change the C-String array declaration." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: BoundaryTraversalOfBinaryTree.java to remove duplicate semi-colon and change the C-String array declaration." />
   </component>
 </project>

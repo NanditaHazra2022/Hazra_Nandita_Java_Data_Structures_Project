@@ -12,7 +12,7 @@ public class CloneArray
     {   // Start of execution thread.
 
         // Creating single dimensional array.
-        int arr[] = {1,
+        int[] arr = {1,
                 2,
                 3,
                 4,
@@ -29,7 +29,7 @@ public class CloneArray
 
         /* Cloning an array using
         * Java in-built method: clone() */
-        int cloneArray [] = arr.clone();
+        int[] cloneArray = arr.clone();
 
         // Printing the cloned array.
         System.out.println(
